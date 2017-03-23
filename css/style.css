@@ -241,6 +241,7 @@ footer ul li {
 
 /* #designModo */
 #designModo {
+	display: block;
 	padding-top: 50px;
 	margin: 0 auto;
 }
